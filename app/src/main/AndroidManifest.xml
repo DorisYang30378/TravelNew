@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TravelNew"
+        tools:targetApi="31">
+        <activity
+            android:name=".Hotel9"
+            android:exported="false"
+            android:label="@string/title_activity_hotel9"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Hotel8"
+            android:exported="false"
+            android:label="@string/title_activity_hotel8"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Hotel7"
+            android:exported="false"
+            android:label="@string/title_activity_hotel7"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Hotel6"
+            android:exported="false"
+            android:label="@string/title_activity_hotel6"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Hotel5"
+            android:exported="false"
+            android:label="@string/title_activity_hotel5"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Hotel4"
+            android:exported="false"
+            android:label="@string/title_activity_hotel4"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Hotel3"
+            android:exported="false"
+            android:label="@string/title_activity_hotel3"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Hotel2"
+            android:exported="false"
+            android:label="@string/title_activity_hotel2"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Hotel1"
+            android:exported="false"
+            android:label="@string/title_activity_hotel1"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Food9"
+            android:exported="false"
+            android:label="@string/title_activity_food9"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Food8"
+            android:exported="false"
+            android:label="@string/title_activity_food8"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Food7"
+            android:exported="false"
+            android:label="@string/title_activity_food7"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Food6"
+            android:exported="false"
+            android:label="@string/title_activity_food6"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Food5"
+            android:exported="false"
+            android:label="@string/title_activity_food5"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Food4"
+            android:exported="false"
+            android:label="@string/title_activity_food4"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Food3"
+            android:exported="false"
+            android:label="@string/title_activity_food3"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Food2"
+            android:exported="false"
+            android:label="@string/title_activity_food2"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".Food1"
+            android:exported="false"
+            android:label="@string/title_activity_food1"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ViewNinth"
+            android:exported="false"
+            android:label="@string/title_activity_view_ninth"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ViewEighth"
+            android:exported="false"
+            android:label="@string/title_activity_view_eighth"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ViewSeventh"
+            android:exported="false"
+            android:label="@string/title_activity_view_seventh"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ViewSixth"
+            android:exported="false"
+            android:label="@string/title_activity_view_sixth"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ViewFifth"
+            android:exported="false"
+            android:label="@string/title_activity_view_fifth"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ViewForth"
+            android:exported="false"
+            android:label="@string/title_activity_view_forth"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ViewThird"
+            android:exported="false"
+            android:label="@string/title_activity_view_third"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ViewSecond"
+            android:exported="false"
+            android:label="@string/title_activity_view_second"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ViewFirst"
+            android:exported="false"
+            android:label="@string/title_activity_view_first"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ListOfView"
+            android:exported="false"
+            android:label="@string/title_activity_list_of_view"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ListOfTour"
+            android:exported="false"
+            android:label="@string/title_activity_list_of_tour"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ListOfHotel"
+            android:exported="false"
+            android:label="@string/title_activity_list_of_hotel"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ListOfFood"
+            android:exported="false"
+            android:label="@string/title_activity_list_of_food"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".FifthActivity"
+            android:exported="false"
+            android:label="@string/title_activity_fifth"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".FourthActivity"
+            android:exported="false"
+            android:label="@string/title_activity_fourth"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".ThirdActivity"
+            android:exported="false"
+            android:label="@string/title_activity_third"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".SecondActivity"
+            android:exported="false"
+            android:label="@string/title_activity_second"
+            android:theme="@style/Theme.TravelNew" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.TravelNew">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
